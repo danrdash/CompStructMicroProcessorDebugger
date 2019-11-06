@@ -1,4 +1,4 @@
-# CompStructMicroProcessorDebugger
+# MicroProcessorSimulation
 Provided with earlier project (see https://github.com/danrdash/AssemblerSimulator) programmed a micro-processor BASYS MX3 (https://reference.digilentinc.com/reference/microprocessor/basys-mx3/start) and written an assembly program that's simulated onto the micro-processor. Using interrupts for specific timing managment.
 
 
