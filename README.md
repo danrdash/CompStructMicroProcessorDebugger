@@ -5,7 +5,7 @@ Provided with earlier project (see https://github.com/danrdash/AssemblerSimulato
 ## IDE
 Written and compiled in MPLABX IDE
 
-## IDE Installation
+### IDE Installation
 Installation file: http://www.microchip.com/mplabxc32windows
 further information: http://www.microchip.com/mplab/compilers
 
